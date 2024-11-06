@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### Name: NATHER NABEEL S A C
+### Reg No: 24900919
+### Experiment 1: Study of basic gates
 
 **AIM:** 
 
@@ -64,15 +66,17 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+ ![Screenshot 2024-11-06 113025](https://github.com/user-attachments/assets/5803b612-3907-4d4a-9478-347dd9ec1e06)
 
- Developed by: RegisterNumber: 
  
-**Logic symbol & Truthtable**
+**Logic symbol
+ & Truthtable**
 
 **RTL realization Output:** 
+![Screenshot 2024-11-06 110435](https://github.com/user-attachments/assets/505fbbf3-8043-4835-9d11-79a702266188)
 
-**RTL**
+# timing diagram
+![Screenshot 2024-11-06 112652](https://github.com/user-attachments/assets/13229490-5361-4a0b-8b2a-ce3a6e13c9cf)
 
 **Result:**
 
